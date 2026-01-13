@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "えらばれし子供たちの密話",
+  "base_artist": "吉澤嘉代子",
+  "createdAt": "2026-01-13T14:41:03.995879Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "えらばれし子供たちの密話",
+      "artist": "Yoshizawa, Kayoko",
+      "has_synced": false,
+      "path": "select/01_えらばれし子供たちの密話_Yoshizawa,_Kayoko.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "えらばれし子供たちの密話",
+      "artist": "吉澤嘉代子",
+      "has_synced": false,
+      "path": "select/pl_01_えらばれし子供たちの密話_吉澤嘉代子.txt"
+    }
+  ]
+}
